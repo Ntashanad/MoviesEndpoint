@@ -4,4 +4,4 @@ This project was generated with [Slimframework with php](https://www.slimframewo
 
 ## Development server
 
-Run `cd public/` and `php -S localhost:8888` to start the localhost server. Type your url `http://localhost:8888/hello/`.
+Run `cd public/` and `php -S localhost:8888` to start the localhost server. Type your url example `http://localhost:8888/hello/`.
